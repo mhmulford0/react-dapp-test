@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { ethers } from "ethers";
 
-import Greeter from "../artifacts/contracts/Greeter.sol/Greeter.json";
+import Greeter from "./artifacts/contracts/Greeter.sol/Greeter.json";
 
 const greeterAddress = "0xe1dA78c984E567f934D54d7fE5f335352F494370";
 
