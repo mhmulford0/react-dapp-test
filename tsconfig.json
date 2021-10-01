@@ -16,6 +16,6 @@
     "noEmit": true,
     "jsx": "react-jsx"
   },
-  "include": ["./src", "./scripts", "./test"],
+  "include": ["./src", "./scripts", "./test", "./ethereum.d.ts"],
   "files": ["./hardhat.config.ts"]
 }
